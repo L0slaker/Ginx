@@ -4,8 +4,9 @@ go 1.19
 
 require (
 	github.com/gin-gonic/gin v1.9.1
-	github.com/redis/go-redis/v9 v9.2.0
+	github.com/redis/go-redis/v9 v9.2.1
 	github.com/stretchr/testify v1.8.4
+	go.uber.org/atomic v1.11.0
 	go.uber.org/mock v0.3.0
 )
 
